@@ -1,0 +1,8 @@
+.invalid{
+    border: 0.5px solid red !important;
+}
+.form-message{
+    font-family: Roboto-Medium;
+    font-size: 16px;
+    color: red !important;
+}
